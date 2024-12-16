@@ -1,2 +1,2 @@
 # Exploration_Cpp
-Learning C++
+Learning C++ for Competitive Programming
